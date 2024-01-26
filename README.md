@@ -31,6 +31,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badsha1996&show_icons=true&locale=en&layout=compact" alt="badsha1996" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badsha1996&show_icons=true&locale=en" alt="badsha1996" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badsha1996&theme=transparent" alt="badsha1996" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badsha1996&" alt="badsha1996" /></p>
+<p align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=badsha1996&" alt="badsha1996" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=badsha1996&theme=transparent" alt="badsha1996" />
+</p>
+<p></p>
+
