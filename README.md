@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Badsha Laskar</h1>
+<h1 align="center">Hi 👋, I'm Badsha Laskar <img align="right" width="200" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif" alt="github"></h1>
 <h3 align="center">I am a Fullstack Engineer with passion in cutting-edge tech</h3>
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstemettes.org%2Fzine%2Farticles%2Fmeet-jazmin-morris%2F&psig=AOvVaw0LHPSWjpH4Fx2xtg2KJtNf&ust=1706380756133000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjLwu_Z-4MDFQAAAAAdAAAAABAY" alt="github" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badsha1996&label=Profile%20views&color=0e75b6&style=flat" alt="badsha1996" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badsha1996" alt="badsha1996" /></a> </p>
