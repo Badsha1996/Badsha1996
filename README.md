@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Badsha Laskar <img align="right" width="200" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif" alt="github"></h1>
 <h3 align="center">I am a Fullstack Engineer with passion in cutting-edge tech</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=badsha1996&label=Profile%20views&color=0e75b6&style=flat" alt="badsha1996" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badsha1996" alt="badsha1996" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **PepKor admin Dashboard**
 
 - 🌱 I’m currently learning **Astro, Rust and Svelt**
-
-- 👨‍💻 All of my projects are available at [https://badsha1996.github.io/resume/](https://badsha1996.github.io/resume/)
-
-- 💬 Ask me about **Next JS, Angular js, MERN and MEAN**
+- 
+- 💬 Ask me about **Next JS, Angular js, MERN, and MEAN**
 
 - 📫 How to reach me **badshalaskar0@gmail.com**
 
