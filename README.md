@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **PepKor admin Dashboard**
 
 - 🌱 I’m currently learning **Astro, Rust and Svelt**
-- 
+  
 - 💬 Ask me about **Next JS, Angular js, MERN, and MEAN**
 
 - 📫 How to reach me **badshalaskar0@gmail.com**
