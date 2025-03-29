@@ -4,12 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Code Editor project**
-
-- 🌱 I’m currently learning **Astro, Rust and Svelt**
-  
-- 💬 Ask me about **Next JS, Angular js, MERN, and MEAN**
-
 - 📫 How to reach me **badshalaskar0@gmail.com**
 
 - ⚡ Fun fact **I love almost everything related to art and computers**
