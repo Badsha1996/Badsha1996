@@ -93,7 +93,7 @@ const Badsha = {
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Badsha1996&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Badsha's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Badsha1996&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=percentile" alt="Badsha's GitHub Stats" /> 
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Badsha1996&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
 
