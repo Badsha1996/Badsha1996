@@ -1,7 +1,7 @@
 # <div align="center">👋 Hey there! I'm Badsha</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Badsha's%20Universe&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20|%20Solution%20Architect%20|%20AI%20Innovator&descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Badsha's%20Kingdom&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20|%20Solution%20Architect%20|%20AI%20Innovator&descAlignY=51&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
