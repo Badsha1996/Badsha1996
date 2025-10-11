@@ -55,17 +55,17 @@
 
 <div align="center">
 
-<a href="https://github.com/Badsha1996/AI-SaaS-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badsha1996&repo=AI-SaaS-Platform&theme=radical&bg_color=0D1117&border_color=00D9FF" width="320" />
+<a href="https://github.com/Badsha1996/path-finder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badsha1996&repo=path-finder&theme=radical&bg_color=0D1117&border_color=00D9FF" width="320" />
 </a>
-<a href="https://github.com/Badsha1996/Microservice-Architecture">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badsha1996&repo=Microservice-Architecture&theme=radical&bg_color=0D1117&border_color=00D9FF" width="320" />
+<a href="https://github.com/Badsha1996/Sorting_visualizer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badsha1996&repo=Sorting_visualizer&theme=radical&bg_color=0D1117&border_color=00D9FF" width="320" />
 </a>
-<a href="https://github.com/Badsha1996/Realtime-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badsha1996&repo=Realtime-Dashboard&theme=radical&bg_color=0D1117&border_color=00D9FF" width="320" />
+<a href="https://github.com/Badsha1996/virtual_painter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badsha1996&repo=virtual_painter&theme=radical&bg_color=0D1117&border_color=00D9FF" width="320" />
 </a>
-<a href="https://github.com/Badsha1996/Secure-API-Gateway">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badsha1996&repo=Secure-API-Gateway&theme=radical&bg_color=0D1117&border_color=00D9FF" width="320" />
+<a href="https://github.com/Badsha1996/Invisible_man">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badsha1996&repo=Invisible_man&theme=radical&bg_color=0D1117&border_color=00D9FF" width="320" />
 </a>
 
 </div>
