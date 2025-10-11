@@ -3,7 +3,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Badsha's%20Kingdom&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20|%20Solution%20Architect%20|%20AI%20Innovator&descAlignY=51&descAlign=50" width="100%"/>
 </div>
-
+<br/>
+<br/>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FFgradient=A9FEF7,FFA9F7&center=true&vCenter=true&width=940&lines=Full-Stack+Engineer+%7C+Tech+Lead+%F0%9F%9A%80;AI+Solution+Architect+%F0%9F%A7%A0;Building+Scalable+Systems+%F0%9F%8F%97%EF%B8%8F;Cutting-Edge+Tech+Mastery+%E2%9A%A1;Transforming+Ideas+into+Reality+%E2%9C%A8" alt="Typing SVG" />
 </div>
