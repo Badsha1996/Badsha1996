@@ -113,56 +113,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
-
-```typescript
-const Badsha = {
-    role: "Tech Lead | Solution Architect | Full-Stack Engineer",
-    pronouns: "He" | "Him",
-    expertise: ["Full-Stack Development", "AI/ML Systems", "Solution Architecture", "Technical Leadership"],
-    
-    technologies: {
-        frontend: {
-            frameworks: ["React", "Next.js", "Vue.js", "Angular"],
-            styling: ["Tailwind CSS", "Styled Components", "Material-UI", "Shadcn/ui"],
-            state: ["Redux", "Zustand", "React Query", "MobX"]
-        },
-        backend: {
-            languages: ["Node.js", "Python", "Go", "Java"],
-            frameworks: ["Express", "NestJS", "FastAPI", "Django", "Spring Boot"],
-            apis: ["REST", "GraphQL", "gRPC", "WebSockets"]
-        },
-        ai_ml: {
-            frameworks: ["TensorFlow", "PyTorch", "LangChain", "Hugging Face"],
-            specialties: ["LLM Integration", "RAG Systems", "MLOps", "Model Deployment"],
-            tools: ["OpenAI API", "Anthropic Claude", "Vertex AI", "Azure OpenAI"]
-        },
-        databases: {
-            sql: ["PostgreSQL", "MySQL", "SQLite"],
-            nosql: ["MongoDB", "Redis", "DynamoDB", "Pinecone"],
-            orm: ["Prisma", "TypeORM", "SQLAlchemy", "Mongoose"]
-        },
-        cloud_devops: {
-            platforms: ["AWS", "Google Cloud", "Azure", "Vercel"],
-            containers: ["Docker", "Kubernetes", "Docker Compose"],
-            ci_cd: ["GitHub Actions", "Jenkins", "GitLab CI", "CircleCI"],
-            monitoring: ["Datadog", "Grafana", "Prometheus", "Sentry"]
-        },
-        mobile: ["React Native", "Flutter", "Progressive Web Apps"],
-        tools: ["Git", "VS Code", "Postman", "Figma", "Linear", "Jira"]
-    },
-    
-    architecture: {
-        patterns: ["Microservices", "Event-Driven", "Serverless", "Domain-Driven Design"],
-        principles: ["SOLID", "Clean Architecture", "12-Factor Apps", "API-First Design"]
-    },
-    
-    currentFocus: "Building production-grade AI applications & leading engineering teams",
-    philosophy: "Elegant solutions to complex problems through cutting-edge technology",
-    funFact: "I turn coffee into scalable, AI-powered applications ☕️→🤖"
-};
-```
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> GitHub Statistics
 
 <div align="center">
