@@ -69,31 +69,30 @@
 </a>
 
 </div>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Featured Projects & Solutions
 
 <div align="center">
 
-| 🤖 AI-Powered SaaS Platform | 🏗️ Enterprise Microservices |
+| 🗺️ Path Finder Algorithm Visualizer | 📊 Sorting Algorithm Visualizer |
 |:---:|:---:|
-| <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="320"> | <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"> |
-| Full-stack AI application with LLM integration | Scalable microservices architecture |
-| 🏆 **Production System** | ⚡ **High Performance** |
-| Next.js • OpenAI • Vector DB | Node.js • Kubernetes • gRPC |
+| <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"> | <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="320"> |
+| Interactive visualization of pathfinding algorithms | Visual representation of sorting algorithms |
+| 🎯 **Algorithm Demo** | 📈 **Educational Tool** |
+| Next.js • Dijkstra • A* • BFS/DFS | JavaScript • Animation • Data Structures |
 
-| 📊 Real-Time Analytics Dashboard | 🔐 Secure API Gateway |
+| 🎨 Virtual Painter | 👻 Invisible Man Effect |
 |:---:|:---:|
-| <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="320"> | <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="320"> |
-| WebSocket-based real-time data visualization | Production-grade API management system |
-| 📈 **Live Updates** | 🛡️ **Enterprise Security** |
-| React • WebSockets • Redis | Express • JWT • Rate Limiting |
+| <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="320"> | <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="320"> |
+| Hand-tracking painting app with ML | Real-time invisibility cloak effect |
+| 🖌️ **Computer Vision** | 🎭 **Image Processing** |
+| Python • OpenCV • Machine Learning | Python • OpenCV • Color Masking |
 
-| 🚀 Serverless AI Pipeline | 📱 Cross-Platform Mobile App |
+| 📚 Doclin Note Generator | 📱 QuilKalam Mobile App |
 |:---:|:---:|
-| <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="320"> | <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="320"> |
-| Automated ML workflow on cloud infrastructure | Hybrid app with native performance |
-| ☁️ **Cloud-Native** | 📲 **iOS + Android** |
-| AWS Lambda • Step Functions | React Native • TypeScript |
+| <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="320"> | <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="320"> |
+| AI-powered note making & Q&A generator | Mobile writing platform for authors & readers |
+| 🤖 **AI-Powered Education** | ✍️ **Content Creation** |
+| TypeScript • AI • Study Tools | React Native • Expo • NativeWind |
 
 </div>
 
