@@ -51,25 +51,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🧩 Featured Projects in 3D
-
-<div align="center">
-
-<a href="https://github.com/Badsha1996/path-finder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badsha1996&repo=path-finder&theme=radical&bg_color=0D1117&border_color=00D9FF" width="320" />
-</a>
-<a href="https://github.com/Badsha1996/Sorting_visualizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badsha1996&repo=Sorting_visualizer&theme=radical&bg_color=0D1117&border_color=00D9FF" width="320" />
-</a>
-<a href="https://github.com/Badsha1996/virtual_painter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badsha1996&repo=virtual_painter&theme=radical&bg_color=0D1117&border_color=00D9FF" width="320" />
-</a>
-<a href="https://github.com/Badsha1996/Invisible_man">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badsha1996&repo=Invisible_man&theme=radical&bg_color=0D1117&border_color=00D9FF" width="320" />
-</a>
-
-</div>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Featured Projects & Solutions
 <div align="center">
 
