@@ -73,9 +73,6 @@ A business AI hub that turns scattered documents into answers, with a multi-mode
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Badsha1996&show_icons=true&count_private=true&hide_border=true&bg_color=070B1A&title_color=00D9FF&icon_color=A855F7&text_color=c9d1d9&rank_icon=percentile"/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Badsha1996&hide_border=true&background=070B1A&ring=00D9FF&fire=A855F7&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
 </p>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Badsha1996&bg_color=070B1A&color=00D9FF&line=A855F7&point=ffffff&area=true&area_color=00D9FF&hide_border=true&custom_title=Contribution%20activity"/>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Badsha1996&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/></p>
-<img src="https://raw.githubusercontent.com/Badsha1996/Badsha1996/output/github-snake-dark.svg" width="100%" alt="Snake eating my contribution graph"/>
 
 <h2 align="center">🌱 Beyond the code</h2>
 
